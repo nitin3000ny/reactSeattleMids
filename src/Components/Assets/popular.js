@@ -1,0 +1,86 @@
+const popular = [
+    {
+      id: 1,
+      name: 'Stylish Denim Jacket',
+      price: 49.99,
+      image: 'https://via.placeholder.com/150',
+      size: ['S', 'M', 'L', 'XL'],
+      description: 'A trendy denim jacket for a casual look.',
+    },
+    {
+      id: 2,
+      name: 'Elegant Floral Dress',
+      price: 69.99,
+      image: 'https://via.placeholder.com/150',
+      size: ['S', 'M', 'L', 'XL'],
+      description: 'A beautiful floral dress for any occasion.',
+    },
+    {
+      id: 3,
+      name: 'Classic White T-Shirt',
+      price: 19.99,
+      image: 'https://via.placeholder.com/150',
+      size: ['S', 'M', 'L', 'XL'],
+      description: 'A comfortable white t-shirt for everyday wear.',
+    },
+    {
+      id: 4,
+      name: 'Sleek Leather Boots',
+      price: 89.99,
+      image: 'https://via.placeholder.com/150',
+      size: ['US 6', 'US 7', 'US 8', 'US 9'],
+      description: 'Stylish leather boots for a modern look.',
+    },
+    {
+      id: 5,
+      name: 'Casual Cargo Pants',
+      price: 39.99,
+      image: 'https://via.placeholder.com/150',
+      size: ['S', 'M', 'L', 'XL'],
+      description: 'Comfortable cargo pants for outdoor activities.',
+    },
+    {
+      id: 6,
+      name: 'Striped Summer Dress',
+      price: 59.99,
+      image: 'https://via.placeholder.com/150',
+      size: ['S', 'M', 'L', 'XL'],
+      description: 'A fashionable striped summer dress.',
+    },
+    {
+      id: 7,
+      name: 'Sneakers for Running',
+      price: 79.99,
+      image: 'https://via.placeholder.com/150',
+      size: ['US 6', 'US 7', 'US 8', 'US 9'],
+      description: 'Running sneakers for active lifestyles.',
+    },
+    {
+      id: 8,
+      name: 'Cozy Hooded Sweatshirt',
+      price: 29.99,
+      image: 'https://via.placeholder.com/150',
+      size: ['S', 'M', 'L', 'XL'],
+      description: 'A warm and comfortable hooded sweatshirt.',
+    },
+    {
+      id: 9,
+      name: 'Slim Fit Blue Jeans',
+      price: 44.99,
+      image: 'https://via.placeholder.com/150',
+      size: ['30x32', '32x32', '34x32', '36x32'],
+      description: 'Classic slim fit blue jeans for everyday wear.',
+    },
+    {
+      id: 10,
+      name: 'Designer Sunglasses',
+      price: 59.99,
+      image: 'https://via.placeholder.com/150',
+      size: ['One Size'],
+      description: 'Trendy designer sunglasses for UV protection.',
+    },
+    // Add more products here
+  ];
+  
+  export default popular;
+  

@@ -1,0 +1,31 @@
+.hero{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin-left: 5rem;
+    margin-top:43px
+}
+.hero-left{
+    width: 50vw;
+}
+.hero-right{
+    height: 100%;
+    width: 50vw;
+    background-image: url("https://img.freepik.com/free-psd/fashion-design-print-template_23-2149003187.jpg?size=626&ext=jpg&ga=GA1.1.1376448436.1697900853&semt=sph");
+    background-size: cover;
+    z-index: -1;
+    justify-self: flex-end;
+   
+}
+.hero-right img{
+    float: right;
+}
+.hero-latest-btn{
+    border:1px solid gainsboro;
+    border-radius: 6px;
+    width: max-content;
+    padding-inline: 1.2rem;
+    padding-block: .8rem;
+    background-color: #95918c79;
+}

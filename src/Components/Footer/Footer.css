@@ -1,0 +1,43 @@
+.footer {
+    margin-top: 90px;
+    color: #585454;
+    padding-bottom: 30px;
+    padding-inline: 150px;
+
+}
+
+.foot-head {
+    margin-bottom: 40px;
+}
+
+footer a {
+    color: #333232;
+    text-decoration: underline;
+}
+
+.footer-flex-line {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 10px;
+}
+
+.footer-flex {
+    justify-content: flex-start;
+    gap: 180px;
+    margin-bottom: 40px;
+    flex-wrap: wrap;
+}
+
+.foot-select {
+    background-color: rgba(27, 27, 27, 0.553);
+}
+
+#netflix-footer-credit {
+    margin-top: 30px;
+    margin-bottom: 80px;
+    font-size: medium;
+}
+.flex {
+    display: flex;
+    align-items: center;
+}
